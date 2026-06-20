@@ -1,0 +1,7 @@
+docker run --rm -it \
+    -u $(id -u):$(id -g) \
+    --memory="30g" \
+    --memory-swap="30g" \
+    -v ~/MouseMRIScans/Sinica_Scan:/data \
+    ghcr.io/cobralab/rabies:0.6.0 \
+    -p Linear preprocess /data/bids_folder_ses_2/ /data/bids_folder_ses_2_preprocessed
