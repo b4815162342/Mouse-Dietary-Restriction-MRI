@@ -1,0 +1,22 @@
+﻿Test Date,Mouse,Mouse Weight (g),Anesthesia Concentration,Parameters,,,,,,,
+,,,,,,,,,,,
+06/04/2026,2,37.9,0.025 mg/ml Dexmedetomedine,T2w,,,,,,,
+,,,0.5% continuous isoflurane,TR/TE,FOV (mm),Matrix Size,Slice Thickness (mm),No. of Slices,Averages,,
+,,,,2620/41.5 ,20x20,360x360,0.6,20,6,,
+,,,,rs-fMRI,,,,,,,
+,,,,TR/TE,FOV,Matrix Size,Slice Thickness (mm),No. of Slices,Averages,,
+,,,,2000/15 ,20x20,80x80,0.6,20,1,,
+,,,,DTI,,,,,,,
+,,,,TR/TE,FOV,Matrix Size,Slice Thickness (mm),No. of Slices,Averages,b-values,Directions
+,,,,2300/40 ,20x20,128x128,0.6,18,5,"b=1000, b=2000",20 each
+Test Date,Mouse,Mouse Weight (g),Anesthesia Concentration,Parameters,,,,,,,
+,,,,,,,,,,,
+06/04/2026,10,29.4,0.0194 mg/ml Dexmedetomedine ,T2w,,,,,,,
+,,,0.5% continuous isoflurane,TR/TE,FOV (mm),Matrix Size,Slice Thickness (mm),No. of Slices,Averages,,
+,,,,2620/41.5 ,20x20,360x360,0.6,20,6,,
+,,,,rs-fMRI,,,,,,,
+,,,,TR/TE,FOV,Matrix Size,Slice Thickness (mm),No. of Slices,Averages,,
+,,,,2000/15 ,20x20,80x80,0.6,20,1,,
+,,,,DTI,,,,,,,
+,,,,TR/TE,FOV,Matrix Size,Slice Thickness (mm),No. of Slices,Averages,b-values,Directions
+,,,,2300/40 ,20x20,128x128,0.6,18,5,"b=1000, b=2000",20 each
